@@ -3,8 +3,9 @@
 A collective list of free APIs for use in software and web development. <br>
 All are respected to US & Copyright holds by MIT.
 <br>
-<h1>If anyone have any trace free public APIs for Developement then, he/she can give me pull request so the main merge sheet will have more informations for all.</h1>
+<h3>If anyone have any trace for free public APIs for Developement then, he/she can give me pull request so the main merge sheet will have more informations for all.</h3><br>
 
+<h4>Help each other, be together, grow together. ~iamrealpalash </h4>
 
 ## Index
 
