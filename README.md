@@ -2,7 +2,6 @@
 
 A collective list of free APIs for use in software and web development.
 
-For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
 ## Index
 
