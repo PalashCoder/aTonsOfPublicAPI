@@ -1,7 +1,9 @@
 # Public API Lists
 
-A collective list of free APIs for use in software and web development.
+A collective list of free APIs for use in software and web development. <br>
 All are respected to US & Copyright holds by MIT.
+<br>
+<h1>If anyone have any trace free public APIs for Developement then, he/she can give me pull request so the main merge sheet will have more informations for all.</h1>
 
 
 ## Index
