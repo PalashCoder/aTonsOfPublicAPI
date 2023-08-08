@@ -1102,4 +1102,6 @@ For information on contributing to this project, please see the [contributing gu
 |              [Weatherbit](https://www.weatherbit.io/api)               | Weather                                            | `apiKey` |  Yes  | Unknown |
 |         [Yahoo! Weather](https://developer.yahoo.com/weather/)         | Weather                                            | `apiKey` |  Yes  | Unknown |
 
+Copyright to MIT.
+
 **[⬆ Back to Index](#index)**
