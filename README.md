@@ -1,6 +1,7 @@
 # Public API Lists
 
 A collective list of free APIs for use in software and web development.
+All are respected to US & Copyright holds by MIT.
 
 
 ## Index
