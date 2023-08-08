@@ -1,10 +1,5 @@
 # Public API Lists
 
-[![Stars](https://img.shields.io/github/stars/aTonsOfPublicAPI/aTonsOfPublicAPI?style=flat-square)](https://github.com/aTonsOfPublicAPI/aTonsOfPublicAPI/stargazers)
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork)
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls)
-
 A collective list of free APIs for use in software and web development.
 
 For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
