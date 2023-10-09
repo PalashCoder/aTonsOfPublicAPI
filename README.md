@@ -4,7 +4,10 @@ A collective list of free APIs for use in software and web development. <br>
 All are respected to US & Copyright holds by MIT.
 <br>
 <h3>If anyone have any trace for free public APIs for Developement then, he/she can give me pull request so the main merge sheet will have more informations for all.</h3><br>
-
+---
+<br> <h3> Here is available a tons of API which anyone can use in this project or in any of your Own Project </h3><br>
+<h1>Make it Star ⭐ for your future Referances</h1>
+---
 <p>Updated with some more and a link in beginning.</p><br>
 <a href="https://rapidapi.com/collection/list-of-free-apis">Visit here for more APIs</a><br>
 <h4>Help each other, be together, grow together. ~iamrealpalash </h4>
